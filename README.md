@@ -67,3 +67,4 @@ Percentage of the requests served within a certain time (ms)
   99%    658
  100%    658 (longest request)
 ```
+The report shows many parameters. But if we focus on the last part we can find the load times for different percentile. 
