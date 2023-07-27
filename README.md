@@ -20,6 +20,7 @@ In the above command <b><i> -n </i></b> refers to the connection request made an
 The command will show the below output 
 ```
 ab -n 100 -c 10 https://www.google.com/
+
 This is ApacheBench, Version 2.3 <$Revision: 1430300 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
 Licensed to The Apache Software Foundation, http://www.apache.org/
