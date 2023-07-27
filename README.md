@@ -67,4 +67,4 @@ Percentage of the requests served within a certain time (ms)
   99%    658
  100%    658 (longest request)
 ```
-The report shows many parameters. But if we focus on the last part we can find the load times for different percentile. 
+The report shows many parameters. But if we focus on the last part we can find the load times for different percentile. In our example output above, 50% of the HTTP requests were handled and closed in only 174 ms or less. This report also indicates that the responses taking 658 ms (there are only two of them) are outliers, making the connection times report less alarming. 90% of our HTTP requests were handled in less than half a second.
